@@ -1,16 +1,16 @@
 ### Hello there 👋
 
-# Hi there 👋 I'm Ali Nasir Ali
+# Hi there 👋 I'm Nasir Ali
 
 I'm a software engineer based in Glasgow. I enjoy building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
 
 Shortly about me:
 
 - 💼 Software Engineer 
-- ✍️ Blogging 
+- ✍️ [Portfolio]([https://ali-nasir.netlify.app/]) 
 - 📚 I'm currently learning React and Node.js
 - 💬 Ping me about design, development, music and anime
-- 📝 Check out my [resume]([https://ali-nasir.netlify.app/])
+- 📝 Check out my [resume]([https://docs.google.com/document/d/1qacS1NOoCqbe4lBko4zI03rk9TVCYP4mU5L9hldec_M/edit?usp=sharing])
 
 ## Skills
 
@@ -49,6 +49,7 @@ Shortly about me:
 
 **Tools & Platforms**
 
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -88,10 +89,10 @@ Here are some of my top projects:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&hide_rank=true&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-nasir-ali&layout=compact&langs_count=8&hide_border=true&theme=dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-nasir-ali&layout=compact&langs_count=8&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" />
 </a>
 
 
