@@ -1,13 +1,13 @@
-### Hello there 👋
+### Hello there 👨‍💻
 
-# Hi there 👋 I'm Nasir Ali
+# Hi 👋 I'm Nasir Ali
 
 I'm a software engineer based in Glasgow. I enjoy building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
 
 Shortly about me:
 
 - 💼 Software Engineer 
-- ✍️ [Portfolio]([https://ali-nasir.netlify.app/]) 
+- 🐦 [Portfolio]([https://ali-nasir.netlify.app/]) 
 - 📚 I'm currently learning React and Node.js
 - 💬 Ping me about design, development, music and anime
 - 📝 Check out my [resume]([https://docs.google.com/document/d/1qacS1NOoCqbe4lBko4zI03rk9TVCYP4mU5L9hldec_M/edit?usp=sharing])
@@ -58,6 +58,7 @@ Shortly about me:
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
 
+<!-- 
 ## Projects
 
 Here are some of my top projects:
