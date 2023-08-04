@@ -88,22 +88,14 @@ Here are some of my top projects:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-nasir-ali&layout=compact&langs_count=8&theme=dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-nasir-ali&layout=compact&langs_count=8&hide_border=true&theme=dark&card_width=320" />
+</a>
+<a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark&card_width=320" />
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%" style="float:left">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 
 ## Let's Connect
 
