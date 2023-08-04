@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Ali Nasir Ali
-I'm a software engineer based in Pakistan 🇵🇰. I'm passionate about building high-quality software that solves real-world problems.
+I'm a software engineer based in Glasgow. I'm passionate about building high-quality software that solves real-world problems.
 
 Skills
 JavaScript / TypeScript
