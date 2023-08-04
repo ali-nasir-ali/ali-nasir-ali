@@ -82,17 +82,16 @@ Here are some of my top projects:
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" width="48%" style="float:right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%" style="float:left">
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-nasir-ali)](https://github.com/ali-nasir-ali/github-readme-stats) -->
 
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-nasir-ali&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-nasir-ali&layout=compact&langs_count=8&theme=dark&card_width=320" />
 </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%" style="float:left">
 
 ## Let's Connect
 
