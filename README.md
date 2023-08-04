@@ -84,7 +84,15 @@ Here are some of my top projects:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" width="48%" style="float:right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%" style="float:left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-nasir-ali)](https://github.com/ali-nasir-ali/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-nasir-ali)](https://github.com/ali-nasir-ali/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Let's Connect
 
