@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 # Hi there 👋 I'm Ali Nasir Ali
 
@@ -10,7 +10,7 @@ Shortly about me:
 - ✍️ Blogging 
 - 📚 I'm currently learning React and Node.js
 - 💬 Ping me about design, development, music and anime
-- 📝 Check out my [resume](https://github.com/ali-nasir-ali/resume)
+- 📝 Check out my [resume]([https://ali-nasir.netlify.app/])
 
 ## Skills
 
@@ -52,6 +52,7 @@ Shortly about me:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
@@ -86,43 +87,16 @@ Here are some of my top projects:
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/alinasirali/)
+- [LinkedIn](https://www.linkedin.com/in/ali-nasir-ali/)
 - [Twitter](https://twitter.com/alinasirali)
 - [Hashnode Blog](https://hashnode.com/@ali-nasir-ali)
 
-Let me know if you would like me to add or modify anything!
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+</div>
 
 
 
-
-
-
-
-I'm Ali Nasir Ali
-I'm a software engineer based in Glasgow. I'm passionate about building high-quality software that solves real-world problems.
-
-Skills
-JavaScript / TypeScript
-React
-Node.js
-Python
-Java
-Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%">
-Let's Connect
-LinkedIn: Add your profile
-Twitter: Add your profile
-
-**ali-nasir-ali/ali-nasir-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...n
-- 🌱 I’m currently learning ...n
-- 👯 I’m looking to collaborate on ...n
-- 🤔 I’m looking for help with ...n
-- 💬 Ask me about ...n
-- 📫 How to reach me: ... n
-- 😄 Pronouns: ... n
-- ⚡ Fun fact: ... n
 
