@@ -82,8 +82,8 @@ Here are some of my top projects:
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&show_icons=true&hide_border=true&theme=dark" width="48%" style="float:left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" width="48%" style="float:left">
 
 ## Let's Connect
 
