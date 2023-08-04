@@ -7,11 +7,10 @@ I'm a software engineer based in Glasgow. I enjoy building things that live on t
 Shortly about me:
 
 - 💼 Software Engineer
-- [@generalgrevis](https://twitter.com/generalgrevis)
-- 🐦 ![Portfolio]([https://ali-nasir.netlify.app/]) 
+- 🐦 [Portfolio](https://ali-nasir.netlify.app/)
 - 📚 I'm currently learning React and Node.js
 - 💬 Ping me about design, development, music and anime
-- 📝 Check out my ![resume]([https://docs.google.com/document/d/1qacS1NOoCqbe4lBko4zI03rk9TVCYP4mU5L9hldec_M/edit?usp=sharing])
+- 📝 Check out my [resume](https://docs.google.com/document/d/1qacS1NOoCqbe4lBko4zI03rk9TVCYP4mU5L9hldec_M/edit?usp=sharing)
 
 ## Skills
 
