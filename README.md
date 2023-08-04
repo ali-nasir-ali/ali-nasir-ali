@@ -102,43 +102,12 @@ Here are some of my top projects:
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ali-nasir-ali/)
+
+
+<!--  
 - [Twitter](https://twitter.com/alinasirali)
-- [Hashnode Blog](https://hashnode.com/@ali-nasir-ali)
+- [Hashnode Blog](https://hashnode.com/@ali-nasir-ali) -->
 
-
-Here is a GitHub README for a user named GeneralGrevis:
-
-# Hi there 👋 I'm GeneralGrevis
-
-## I'm a Developer and Gamer 
-
-I'm a software developer and gaming enthusiast based in the US. I enjoy building fun and interactive applications as well as gaming in my free time.
-
-- 👨‍💻 Currently working on a top secret gaming project
-- 🎮 Favorite games: Fortnite, Call of Duty, Apex Legends
-- 🕹️ Always looking to play with new teammates
-- 🏆 Achieved #1 Victory Royale in Fortnite solo
-
-### Skills
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=generalgrevis&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="49%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=generalgrevis&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="49%">
-
-### Let's Connect
-
-- 🎮 Discord: generalgrevis#5555
-- 🐦 Twitter: [@generalgrevis](https://twitter.com/generalgrevis)
-- 💻 Developer Blog: https://dev.to/generalgrevis
-
-Let me know if you would like me to modify or add anything!
 
 
 <div align="center">
