@@ -86,7 +86,7 @@ Here are some of my top projects:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-nasir-ali)](https://github.com/ali-nasir-ali/github-readme-stats) -->
 
-<a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
+<!-- <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ali-nasir-ali&hide_rank=true&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
@@ -95,7 +95,7 @@ Here are some of my top projects:
 <a href="https://github.com/ali-nasir-ali/ali-nasir-ali">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-nasir-ali&hide_border=true&theme=dark" />
 </a>
-
+-->
 
 
 
