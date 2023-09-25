@@ -10,7 +10,7 @@ Shortly about me:
 - 🐦 [Portfolio](https://ali-nasir.netlify.app/)
 - 📚 I'm currently learning React and Node.js
 - 💬 Ping me about design, development, music and anime
-- 📝 Check out my [resume]([https://docs.google.com/document/d/1qacS1NOoCqbe4lBko4zI03rk9TVCYP4mU5L9hldec_M/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vQFUgy5-JBP1W90C3wY9MAIR5GkJmTp82q02ADk54reQ2pWcA28j_K61PADrlfRpRH8ZiHuBKvddf2j/pub))
+- 📝 Check out my [resume]([https://docs.google.com/document/d/1qacS1NOoCqbe4lBko4zI03rk9TVCYP4mU5L9hldec_M/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vQFUgy5-JBP1W90C3wY9MAIR5GkJmTp82q02ADk54reQ2pWcA28j_K61PADrlfRpRH8ZiHuBKvddf2j/pub])
 
 ## Skills
 
